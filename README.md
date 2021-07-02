@@ -22,7 +22,7 @@ Effort Estimations, Strategic Planning & Analysis, Test Strategy/Test Plan, Test
 ACADEMIC QUALIFICATION
 Bachelor of Engineering in Computers from Pune University, India – 05/2005 to 05/2009
 
-CERTIFICATIONS
+CERTIFICATIONS:
 Microsoft DEVOPS200.5: DevOps Testing Certification, 2017 –Microsoft
 Software Testing Level 1 Certification, 2010: Manual Testing– IGATE
 Software Testing Certification, 2010: Seed InfoTech
